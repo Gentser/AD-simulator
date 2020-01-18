@@ -7,3 +7,5 @@ Your task is:
 1) To make a bot move through lane
 2) It sholud not hit the wall (the edge of a road) for 1 minute after it has been launched
 3) You should control your bot using ROS topics
+
+To make a bot simply move (just as a control sample) launch `/ros/basic_control.py`
